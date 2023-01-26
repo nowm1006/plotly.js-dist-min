@@ -1,0 +1,9 @@
+{
+  "name": "plotly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "plotly.js-dist-min": "^2.18.0"
+  }
+}
